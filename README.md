@@ -33,12 +33,17 @@ dash (Power BI) – jupyter
 - shell script
 - 
 **Documentation**
-- HTML
-- Latex
-- Microsoft Office
 
-| Python		          | Dthers            | Documentation| 
-| :---                            | :---                   | :--- 	           | 
+| Python		          | Dthers		| Documentation| 
+| :---                            | :---                | :--- 	       | 
+Dash (Power BI)                   | C                   | HTML  |
+jupyter				  | IDL                 |Latex  |
+matplotlib                        | PHP                 | Markdown |
+numpy                             |SQL                  |Office  |
+pandas                            | Shell scripting     |        |
+scikit-learn                      |                     |        |
+tensorflow                        |                     |        |
+
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
