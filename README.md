@@ -1,6 +1,6 @@
 ### Overview 
 
-Physics/space science researcher and teacher, with expertise in statistical analy- sis, data modelling, team leadership and science communication.
+Physics/space science researcher and teacher, with expertise in statistical analysis, data modelling, leadership and science communication.
 
 ### Expertise and Tools
 
