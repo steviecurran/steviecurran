@@ -15,17 +15,17 @@ Expertise in:
 - Science Consultancy
 - Public Speaking
 
-## Tools
+## Expertise and Tools
 
-| Python		                      | Other languages		| Documentation| 
-| :---                            | :---                | :--- 	       | 
-Dash (Power BI)                   | C                   | HTML  |
-jupyter				                    | IDL                   |Latex  |
-matplotlib                        | PHP                 | Markdown |
-numpy                             |SQL                  |Office  |
-pandas                            | Shell scripting     |        |
-scikit-learn                      | Pgplot              |        |
-tensorflow                        | Gnuplot             |        |
+Technical Skills | Soft Skills | Python | Other languages | Documentation| 
+| :---    | :--  | :---   | :---            | :--- 	       | 
+Data Analysis | Team Leaddership |  dash (Power BI)      | C                 | HTML  |
+Machine  Learning | Proposal Writing|  jupyter	    	| IDL               |Latex  |
+Neutal Networks Teaching & Supervision|     matplotlib           | PHP               | Markdown |
+Data Visualisation| | Science Communication|   numpy                | SQL               |Office  |
+Statistical Analysis | Public Speaking|   pandas               | Shell scripting     |        |
+Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
+Science Consultancy                 | tensorflow           | Gnuplot             |        |
 
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
