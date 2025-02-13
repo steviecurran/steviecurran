@@ -8,7 +8,7 @@ Physics/space science researcher and teacher, with expertise in statistical anal
 
 Technical Skills | Soft Skills | Python | Other languages | Documentation| 
 | :---    | :--  | :---   | :---            | :--- 	       | 
-Data Analysis | Team Leaddership |  dash (Power BI)      | C                 | HTML  |
+Data Analysis | Team Leadership |  dash (Power BI)      | C                 | HTML  |
 Machine  Learning | Proposal Writing|  jupyter	    	| IDL               |Latex  |
 Neutal Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
 Data Visualisation | Science Communication |   numpy    | SQL               |Office  |
