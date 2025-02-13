@@ -15,9 +15,9 @@ Expertise in:
 -  Science Consultancy
 -  Public Speaking
 
-## Technical Skills
-### Python
-– dash (Power BI) – jupyter
+## Tools
+**Python**
+dash (Power BI) – jupyter
 – matplotlib
 – numpy
 – pandas (SQL)
