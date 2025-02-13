@@ -16,33 +16,16 @@ Expertise in:
 - Public Speaking
 
 ## Tools
-**Python**
-dash (Power BI) – jupyter
-- matplotlib
-- numpy
-- pandas (SQL)
-- seaborn
-- scikit-learn
-- tensorflow
-- 
-**Others**
-- C
-- IDL
-- PHP
-- SQL
-- shell script
-- 
-**Documentation**
 
-| Python		          | Dthers		| Documentation| 
+| Python		                      | Other languages		| Documentation| 
 | :---                            | :---                | :--- 	       | 
 Dash (Power BI)                   | C                   | HTML  |
-jupyter				  | IDL                 |Latex  |
+jupyter				                    | IDL                   |Latex  |
 matplotlib                        | PHP                 | Markdown |
 numpy                             |SQL                  |Office  |
 pandas                            | Shell scripting     |        |
-scikit-learn                      |                     |        |
-tensorflow                        |                     |        |
+scikit-learn                      | Pgplot              |        |
+tensorflow                        | Gnuplot             |        |
 
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
