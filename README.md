@@ -11,29 +11,29 @@ Expertise in:
 - Proposal Writing,
 - Team Leadership
 - Teaching & Supervision
--  Science Communication
--  Science Consultancy
--  Public Speaking
+- Science Communication
+- Science Consultancy
+- Public Speaking
 
 ## Tools
 **Python**
 dash (Power BI) – jupyter
-– matplotlib
-– numpy
-– pandas (SQL)
-– seaborn
-– scikit-learn
-– tensorflow 
+- matplotlib
+- numpy
+- pandas (SQL)
+- seaborn
+- scikit-learn
+- tensorflow 
 **Others**
 - C
-– IDL
-– PHP
-– SQL
-– shell script
+- IDL
+- PHP
+- SQL
+- shell script
 **Documentation**
-– HTML
-– Latex
-– Microsoft Office
+- HTML
+- Latex
+- Microsoft Office
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
