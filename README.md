@@ -12,7 +12,7 @@ Neutal Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
 Data Visualisation | Science Communication |   numpy    | SQL               |Office  |
 Statistical Analysis | Public Speaking|   pandas               | Shell scripting     |        |
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
-Science Consultancy |                | tensorflow           | Gnuplot             |        |
+Science Consultancy |  International collaboration  | tensorflow           | Gnuplot             |        |
 
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
