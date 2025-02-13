@@ -2,6 +2,8 @@
 
 Physics/space science researcher and teacher, with expertise in statistical analysis, data modelling, leadership and science communication.
 
+![](https://github.com/steviecurran/portfolio/blob/main/assets/img/1705458553962.jpeg)
+
 ### Expertise and Tools
 
 Technical Skills | Soft Skills | Python | Other languages | Documentation| 
