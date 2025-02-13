@@ -24,13 +24,13 @@ dash (Power BI) – jupyter
 – seaborn
 – scikit-learn
 – tensorflow 
-## Other Languages –
+**Others**
 - C
 – IDL
 – PHP
 – SQL
 – shell script
-## Documentation
+**Documentation**
 – HTML
 – Latex
 – Microsoft Office
