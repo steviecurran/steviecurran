@@ -23,17 +23,22 @@ dash (Power BI) – jupyter
 - pandas (SQL)
 - seaborn
 - scikit-learn
-- tensorflow 
+- tensorflow
+- 
 **Others**
 - C
 - IDL
 - PHP
 - SQL
 - shell script
+- 
 **Documentation**
 - HTML
 - Latex
 - Microsoft Office
+
+| Python		          | Dthers            | Documentation| 
+| :---                            | :---                   | :--- 	           | 
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
