@@ -4,7 +4,7 @@ Physics/space science researcher and teacher, with expertise in statistical anal
 
 ![](https://github.com/steviecurran/portfolio/blob/main/assets/img/1705458553962.jpeg)
 
-### Expertise and Tools
+### Expertise and Skills
 
 Technical Skills | Soft Skills | Python | Other languages | Documentation| 
 | :---    | :--  | :---   | :---            | :--- 	       | 
@@ -14,7 +14,7 @@ Neutal Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
 Data Visualisation | Science Communication |   numpy    | SQL               |Office  |
 Statistical Analysis | Public Speaking|   pandas               | Shell scripting     |        |
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
-Science Consultancy |  International collaboration  | tensorflow           | Gnuplot             |        |
+Science Consultancy |  International Collaboration  | tensorflow           | Gnuplot             |        |
 
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
