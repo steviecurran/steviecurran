@@ -1,7 +1,8 @@
-## Hi there 👋
+## Overview 👋
 
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+*Technical Skills:** Python, C, IDL, PHP, SQL, Jupyter, shell scipting
+
+**Expertise:** Data Analysis, Machine/Deep Learning,  Data Visualisation, Scientific Research, Statistical Analyses, Data Collection/Cleaning, Proposal Writing, Team Leadership, Teaching & Supervision, Science Communication, Science Consultancy, Public Speaking
