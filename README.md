@@ -1,6 +1,14 @@
 ### Overview 
 
-Physics/space science researcher and teacher, with expertise in statistical analysis, data modelling, leadership and science communication.
+Physics/space science researcher and teacher, with expertise in statistical analysis, data modelling, leadership and science communication. Extensive experience in leading research projects, mentorship, teach- ing, public speaking, media presentations and grant/proposal writing. Exposure to working in different countries and with different cultures. UK, Australian and New Zealand citizen, having also worked in Sweden and Chile. This has given me:
+• Stronganalytical,advancedhands-ondatahandlingandproblemsolvingskills
+• Project leadership experience, leading research projects with scientists from over 30 institutions around the world, in addition to management of university- based research, teaching and laboratory teams
+• Significant communication and presentation experience at various audience levels and a regular guest on New Zealand national radio
+• Proficiency in several programming languages, including Python and C
+• Familiarity with machine learning and deep learning frameworks
+• Experience in proposal writing (business case) for highly competitive funding and telescope observing time
+• Spearhead several novel teaching methodologies and initiatives
+
 
 ![](https://github.com/steviecurran/portfolio/blob/main/assets/img/1705458553962.jpeg)
 
