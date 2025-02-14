@@ -1,7 +1,7 @@
 ### Overview 
 
 Physics/space science researcher and teacher, with expertise in statistical analysis, data modelling, leadership and science communication. Extensive experience in leading research projects, mentorship, teach- ing, public speaking, media presentations and grant/proposal writing. Exposure to working in different countries and with different cultures. UK, Australian and New Zealand citizen, having also worked in Sweden and Chile. This has given me:
-- Stronganalytical,advancedhands-ondatahandlingandproblemsolvingskills
+- Strong analytical, advanced hands-on data handling and problem solving skills
 - Project leadership experience, leading research projects with scientists from over 30 institutions around the world, in addition to management of university- based research, teaching and laboratory teams
 - Significant communication and presentation experience at various audience levels and a regular guest on New Zealand national radio
 - Proficiency in several programming languages, including Python and C
