@@ -7,7 +7,7 @@ Physics/space science researcher and teacher, with expertise in statistical anal
 - Proficiency in several programming languages, including Python and C
 - Familiarity with machine learning and deep learning frameworks
 - Experience in proposal writing (business case) for highly competitive funding and telescope observing time
-- Spearhead several novel teaching methodologies and initiatives
+- Spearheaded several novel teaching methodologies and initiatives
 
 
 ![](https://raw.githubusercontent.com/steviecurran/radio-interviews/refs/heads/main/Parkes_at_night.jpg)
