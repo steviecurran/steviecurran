@@ -10,7 +10,7 @@ Physics/space science researcher and teacher, with expertise in statistical anal
 - Spearheaded several novel teaching methodologies and initiatives
 
 
-[//]: # ![](https://raw.githubusercontent.com/steviecurran/radio-interviews/refs/heads/main/Parkes_at_night.jpg)
+[comment]: <> (![](https://raw.githubusercontent.com/steviecurran/radio-interviews/refs/heads/main/Parkes_at_night.jpg))
 
 ![](https://raw.githubusercontent.com/steviecurran/UK-employment/refs/heads/main/page3.png)
 
