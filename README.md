@@ -9,11 +9,6 @@ Physics/space science researcher and teacher, with expertise in statistical anal
 - Experience in proposal writing (business case) for highly competitive funding and telescope observing time
 - Spearheaded several novel teaching methodologies and initiatives
 
-
-[comment]: <> (![](https://raw.githubusercontent.com/steviecurran/radio-interviews/refs/heads/main/Parkes_at_night.jpg))
-
-![](https://raw.githubusercontent.com/steviecurran/UK-employment/refs/heads/main/page3.png)
-
 ### Expertise and Skills
 
 Technical Skills | Soft Skills | Python | Other languages | Documentation| 
@@ -25,6 +20,8 @@ Data Visualisation | Science Communication |   numpy    | SQL               | [d
 Statistical Analysis | Public Speaking|   pandas               | Shell scripting     |  Office       |
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
 Simulations |  International Collaboration  | tensorflow           | Gnuplot             |        |
+
+![](https://raw.githubusercontent.com/steviecurran/UK-employment/refs/heads/main/page3.png)
              
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
