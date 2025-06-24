@@ -1,6 +1,6 @@
 ### Overview 
 
-Physics/Space Science researcher and teacher, with over two decades in experience sta- tistical analysis, data modelling, team leadership and science communication. Extensive experience in leading research projects, mentorship, teaching, stakeholder engagement, project management, public speaking, media presentations and grant/proposal writing. Excellent problem solving and interpersonal skills.
+Physics/Space Science researcher and teacher, with over two decades in experience statistical analysis, data modelling, team leadership and science communication. Extensive experience in leading research projects, mentorship, teaching, stakeholder engagement, project management, public speaking, media presentations and grant/proposal writing. Excellent problem solving and interpersonal skills.
 
 Exposure to working in different countries and with different cultures. UK, Australian and New Zealand citizen, having also worked in Sweden and Chile. This has given me:
 - Strong analytical, advanced hands-on data handling and problem solving skills
