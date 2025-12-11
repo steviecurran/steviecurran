@@ -1,7 +1,7 @@
 ### SUMMARY ###
 Data-focused researcher with 20+ years of experience applying machine learning, statistical modelling, Python-based data analysis, and quantitative problem‑solving to large, complex datasets. Strong communicator with extensive experience leading analytical projects, mentoring teams, and delivering clear insights to technical and non‑technical audiences.
 
-### SINDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
+### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
  - **Machine Learning Classification of Galaxies**: Built ML models (sklearn, tensorflow) to classify galaxy properties from multi‑feature datasets. Improved prediction accuracy vs. baseline models and delivered interpretable insights for scientific users.
 
 - **Neural Network Redshift Estimation**: Designed and trained deep learning models to estimate galaxy redshifts, replacing manual feature‑driven estimation with automated approaches.
