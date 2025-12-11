@@ -1,17 +1,16 @@
-### Overview 
+### SUMMARY 
+Data-focused researcher with 20+ years of experience applying machine learning, statistical modelling, Python-based data analysis, and quantitative problem‑solving to large, complex datasets. Strong communicator with extensive experience leading analytical projects, mentoring teams, and delivering clear insights to technical and non‑technical audiences.
 
-Physics/Space Science researcher and teacher, with over two decades in experience statistical analysis, data modelling, team leadership and science communication. Extensive experience in leading research projects, mentorship, teaching, stakeholder engagement, project management, public speaking, media presentations and grant/proposal writing. Excellent problem solving and interpersonal skills.
+### SINDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
+ - **Machine Learning Classification of Galaxies**: Built ML models (sklearn, tensorflow) to classify galaxy properties from multi‑feature datasets. Improved prediction accuracy vs. baseline models and delivered interpretable insights for scientific users.
 
-Exposure to working in different countries and with different cultures. UK, Australian and New Zealand citizen, having also worked in Sweden and Chile. This has given me:
-- Strong analytical, advanced hands-on data handling and problem solving skills
-- Project leadership experience, leading research projects with scientists from over 30 institutions around the world, in addition to management of university- based research, teaching and laboratory teams
-- Significant communication and presentation experience at various audience levels and a regular guest on New Zealand national radio
-- Proficiency in several programming languages, including Python and C
-- Familiarity with machine learning and deep learning frameworks
-- Experience in proposal writing (business case) for highly competitive funding and telescope observing time
-- Spearheaded several novel teaching methodologies and initiatives
+- **Neural Network Redshift Estimation**: Designed and trained deep learning models to estimate galaxy redshifts, replacing manual feature‑driven estimation with automated approaches.
 
-### Expertise and Skills
+- **A/B Testing & Statistical Tooling**: Wrote Python tools implementing A/B testing, confidence intervals, and hypothesis testing suitable for product, marketing, or business analytics contexts.
+  
+- **Data Visualisation**: Developed applications for exploring high‑dimensional astrophysical and experimental datasets.
+
+### CORE SKILLS
 
 Technical Skills | Soft Skills | Python | Other languages | Documentation| 
 | :---    | :--  | :---   | :---            | :--- 	       | 
