@@ -22,7 +22,7 @@ Statistical Analysis | Public Speaking|   pandas               | Shell scripting
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
 Simulations |  International Collaboration  | tensorflow           | Gnuplot             |        |
 
-![](https://raw.githubusercontent.com/steviecurran/UK-employment/refs/heads/main/page3.png)
+![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/aitoff_trans.png)
              
 <!--
 **steviecurran/steviecurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
