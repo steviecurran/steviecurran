@@ -1,4 +1,4 @@
-### SUMMARY 
+### SUMMARY ###
 Data-focused researcher with 20+ years of experience applying machine learning, statistical modelling, Python-based data analysis, and quantitative problem‑solving to large, complex datasets. Strong communicator with extensive experience leading analytical projects, mentoring teams, and delivering clear insights to technical and non‑technical audiences.
 
 ### SINDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
