@@ -6,7 +6,7 @@ Data-focused researcher with 20+ years of experience applying machine learning, 
 
 - **Neural Network Redshift Estimation**: Designed and trained deep learning models to estimate galaxy redshifts, replacing manual feature‑driven estimation with automated approaches.
 
-- **A/B Testing & Statistical Tooling**: Wrote Python tools implementing A/B testing, confidence intervals, and hypothesis testing suitable for product, marketing, or business analytics contexts.
+- **A/B Testing & Statistical Tooling**: Wrote Python tools implementing A/B testing, confidence intervals and hypothesis testing suitable for product, marketing, or business analytics contexts.
   
 - **Data Visualisation**: Developed applications for exploring high‑dimensional astrophysical and experimental datasets.
 
