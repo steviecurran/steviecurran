@@ -16,7 +16,7 @@ Technical Skills | Soft Skills | Python | Other languages | Documentation|
 | :---    | :--  | :---   | :---            | :--- 	       | 
 Data Analysis | Team Leadership |  dash      | C                 | HTML  |
 Machine  Learning | Project Management |  jupyter	    	| IDL               |Latex  |
-Neutal Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
+Neural Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
 Data Visualisation | Science Communication |   numpy    | SQL               | [dashboards](https://github.com/steviecurran/dashboards)|
 Statistical Analysis | Public Speaking|   pandas               | Shell scripting     |  Office       |
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
