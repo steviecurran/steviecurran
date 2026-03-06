@@ -1,13 +1,19 @@
 ### SUMMARY ###
-Data-focused researcher with 20+ years of experience applying machine learning, statistical modelling, Python-based data analysis, and quantitative problem‑solving to large, complex datasets. Strong communicator with extensive experience leading analytical projects, mentoring teams, and delivering clear insights to technical and non‑technical audiences.
+Senior Data Scientist with 20+ years of experience applying machine learning, statistical modelling, and Python analytics to complex datasets.
+
 
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
- - **Machine Learning Classification of Galaxies**: Built ML models (sklearn, tensorflow) to classify galaxy properties from multi‑feature datasets. Improved prediction accuracy vs. baseline models and delivered interpretable insights for scientific users.
+ - **Machine Learning**: Designed and evaluated supervised models to identify rare classes within highly imbal-
+anced, noisy datasets using Python (scikit-learn, TensorFlow). Emphasised uncertainty
+quantification and decision-threshold optimisation under real-world constraints.
 
-- **Neural Network Redshift Estimation**: Designed and trained deep learning models to estimate galaxy redshifts, replacing manual feature‑driven estimation with automated approaches.
+- **Deep Learning Regression for Continuous Parameter Estimation**: Developed neural network models to estimate continuous target variables from high-
+dimensional inputs. Implemented end-to-end pipelines covering data pre-processing,
+training, validation, and uncertainty assessment.
 
-- **A/B Testing & Statistical Tooling**: Wrote Python tools implementing A/B testing, confidence intervals and hypothesis testing suitable for product, marketing, or business analytics contexts.
-  
+- **Statistical Experimentation & A/B Testing Tooling**: Built reusable Python tools implementing hypothesis testing, confidence intervals and
+A/B testing workflows applicable to product, marketing and business analytics contexts.
+
 - **Data Visualisation**: Developed applications for exploring high‑dimensional astrophysical and experimental datasets.
 
 ### CORE SKILLS
