@@ -1,20 +1,29 @@
 ### SUMMARY ###
-Senior Data Scientist with 20+ years of experience applying machine learning, statistical modelling, and Python analytics to complex datasets.
+Data scientist with 20+ years of experience modelling complex, noisy systems — originally in astrophysics, now applied to real-world data problems.
+
+My work focuses on machine learning, statistical inference, and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
 
 
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
- - **Machine Learning**: Designed and evaluated supervised models to identify rare classes within highly imbal-
-anced, noisy datasets using Python (scikit-learn, TensorFlow). Emphasised uncertainty
-quantification and decision-threshold optimisation under real-world constraints.
 
-- **Deep Learning Regression for Continuous Parameter Estimation**: Developed neural network models to estimate continuous target variables from high-
-dimensional inputs. Implemented end-to-end pipelines covering data pre-processing,
-training, validation, and uncertainty assessment.
+**Fraud Detection (Machine Learning)**
 
-- **Statistical Experimentation & A/B Testing Tooling**: Built reusable Python tools implementing hypothesis testing, confidence intervals and
-A/B testing workflows applicable to product, marketing and business analytics contexts.
+Developed supervised models to identify rare events in highly imbalanced data, achieving strong precision while maintaining a low alert rate. Focused on threshold optimisation, uncertainty, and real-world trade-offs between detection and operational cost.
 
-- **Data Visualisation**: Developed applications for exploring high‑dimensional astrophysical and experimental datasets.
+**A/B Testing Toolkit (Statistical Inference)**
+
+Built reusable Python tools for comparing groups using confidence intervals and hypothesis testing. Designed to support practical decision-making in experimentation workflows.
+
+**Time Series Forecasting Toolkit**
+
+Created an interactive framework for comparing forecasting models (ARIMA, Holt-Winters, Prophet) with built-in backtesting and error analysis to evaluate real-world performance.
+
+**Deep Learning for Regression**
+Implemented neural network models for continuous parameter estimation from high-dimensional data, including full pipelines for preprocessing, training, validation, and uncertainty assessment.
+
+### TOOLS & METHODS
+
+Python (pandas, NumPy, scikit-learn, TensorFlow), statistical modelling, machine learning, time series forecasting, hypothesis testing, data visualisation.
 
 ### CORE SKILLS
 
