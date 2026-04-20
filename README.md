@@ -6,20 +6,21 @@ My work focuses on machine learning, statistical inference, and time series anal
 
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
-**Fraud Detection (Machine Learning)**
+- **Fraud Detection (Machine Learning)**
 
-Developed supervised models to identify rare events in highly imbalanced data, achieving strong precision while maintaining a low alert rate. Focused on threshold optimisation, uncertainty, and real-world trade-offs between detection and operational cost.
+  Developed supervised models to identify rare events in highly imbalanced data, achieving strong precision while maintaining a low alert rate. Focused on threshold optimisation, uncertainty, and real-world trade-offs between detection and operational cost.
 
-**A/B Testing Toolkit (Statistical Inference)**
+- **A/B Testing Toolkit (Statistical Inference)**
 
-Built reusable Python tools for comparing groups using confidence intervals and hypothesis testing. Designed to support practical decision-making in experimentation workflows.
+  Built reusable Python tools for comparing groups using confidence intervals and hypothesis testing. Designed to support practical decision-making in experimentation workflows.
 
-**Time Series Forecasting Toolkit**
+- **Time Series Forecasting Toolkit**
 
-Created an interactive framework for comparing forecasting models (ARIMA, Holt-Winters, Prophet) with built-in backtesting and error analysis to evaluate real-world performance.
+  Created an interactive framework for comparing forecasting models (ARIMA, Holt-Winters, Prophet) with built-in backtesting and error analysis to evaluate real-world performance.
 
-**Deep Learning for Regression**
-Implemented neural network models for continuous parameter estimation from high-dimensional data, including full pipelines for preprocessing, training, validation, and uncertainty assessment.
+- **Deep Learning for Regression**
+
+  Implemented neural network models for continuous parameter estimation from high-dimensional data, including full pipelines for preprocessing, training, validation, and uncertainty assessment.
 
 ### TOOLS & METHODS
 
