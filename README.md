@@ -1,12 +1,11 @@
-## SUMMARY 
+### SUMMARY 
 Data scientist with 20+ years of experience modelling complex, noisy systems — originally in astrophysics, now applied to real-world data problems.
 
 My work focuses on machine learning, statistical inference, and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
 
+### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
-## INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
-
-- ###Fraud Detection (Machine Learning)**
+- #### Fraud Detection (Machine Learning)
 
   Developed supervised models to identify rare events in highly imbalanced data, achieving strong precision while maintaining a low alert rate. Focused on threshold optimisation, uncertainty, and real-world trade-offs between detection and operational cost.
 
