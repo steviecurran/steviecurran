@@ -32,9 +32,9 @@ Technical Skills | Soft Skills | Python | Other languages | Documentation|
 Data Analysis | Team Leadership |  dash      | C                 | HTML  |
 Machine  Learning | Project Management |  jupyter	    	| IDL               |Latex  |
 Neural Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
-Data Visualisation | Science Communication |   numpy    | SQL               | [dashboards](https://github.com/steviecurran/dashboards)|
-Statistical Analysis | Public Speaking|   pandas               | Shell scripting     |  Office       |
-Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |        |
+Data Visualisation | Science Communication |   numpy    | SQL               | Plotly [dashboards](https://github.com/steviecurran/dashboards)|
+Statistical Analysis | Public Speaking|   pandas               | Shell scripting     | Tableau       |
+Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |   Office      |
 Simulations |  International Collaboration  | tensorflow           | Gnuplot             |        |
 
 ![](https://raw.githubusercontent.com/steviecurran/fraud-detection-ml/refs/heads/main/results.png)
