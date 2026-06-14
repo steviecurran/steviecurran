@@ -14,19 +14,21 @@ My work focuses on machine learning, statistical inference and time series analy
 
 **Statistics**
 - A/B Testing
-• Confidence Intervals
-• Hypothesis Testing
+- Confidence Intervals
+- Hypothesis Testing
 
 **Forecasting**
-• ARIMA
-• Holt-Winters
-• Prophet
+- ARIMA
+- Holt-Winters
+- Prophet
 
 **Programming**
-• Python
-• SQL
-• Git
-•  
+- Python
+- SQL
+- Git
+- C
+- IDL
+- Unix shell  
 
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
