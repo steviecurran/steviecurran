@@ -1,7 +1,7 @@
 ### SUMMARY 
 Data scientist with 20+ years of experience modelling complex, noisy systems — originally in astrophysics, now applied to real-world data problems.
 
-My work focuses on machine learning, statistical inference, and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
+My work focuses on machine learning, statistical inference and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
 
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
