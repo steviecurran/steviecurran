@@ -28,7 +28,9 @@ My work focuses on machine learning, statistical inference and time series analy
 - Git
 - C
 - IDL
-- Unix shell  
+- Unix shell
+
+ ![](https://raw.githubusercontent.com/steviecurran/quasar-distances/refs/heads/main/desiQSO_x_sdssQSO_trun.csv_desiQSO_x_sdssQSO_trun_kNN.png)
 
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
