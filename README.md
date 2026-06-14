@@ -5,6 +5,29 @@ Published machine-learning researcher with 20+ years of quantitative modelling e
 
 My work focuses on machine learning, statistical inference and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
 
+### TECHNICAL HIGHLIGHTS
+
+**Machine Learning**
+• Classification
+• Regression
+• Neural Networks
+
+**Statistics**
+• A/B Testing
+• Confidence Intervals
+• Hypothesis Testing
+
+**Forecasting**
+• ARIMA
+• Holt-Winters
+• Prophet
+
+**Programming**
+• Python
+• SQL
+• Git
+•  
+
 ### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
 - #### Fraud Detection (Machine Learning)
