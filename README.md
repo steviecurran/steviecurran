@@ -8,12 +8,12 @@ My work focuses on machine learning, statistical inference and time series analy
 ### TECHNICAL HIGHLIGHTS
 
 **Machine Learning**
-• Classification
-• Regression
-• Neural Networks
+- Classification
+- Regression
+- Neural Networks
 
 **Statistics**
-• A/B Testing
+- A/B Testing
 • Confidence Intervals
 • Hypothesis Testing
 
