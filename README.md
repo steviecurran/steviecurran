@@ -63,8 +63,8 @@ Machine  Learning | Project Management |  jupyter	    	| IDL               |Late
 Neural Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
 Data Visualisation | Science Communication |   numpy    | SQL               | Plotly [dashboards](https://github.com/steviecurran/dashboards)|
 Statistical Analysis | Public Speaking|   pandas               | Shell scripting     | [Tableau](https://github.com/steviecurran/logistics-performance-dashboard)       |
-Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              |   Office      |
-Simulations |  International Collaboration  | tensorflow           | Gnuplot             |        |
+Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              | [Streamlit](https://github.com/steviecurran/streamlit-apps)       |
+Simulations |  International Collaboration  | tensorflow           | Gnuplot             |  Office      |
 
 ![](https://raw.githubusercontent.com/steviecurran/fraud-detection-ml/refs/heads/main/results.png)
 
