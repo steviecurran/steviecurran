@@ -38,11 +38,11 @@
 
 ### PROJECT HIGHLIGHTS
 
-- ####[Battery Health ML Workbench](https://github.com/steviecurran/battery-health-ml-workbench)
+- #### [Battery Health ML Workbench](https://github.com/steviecurran/battery-health-ml-workbench)
  
  	End-to-end battery prognostics from 1.6M observations, with Leave-One-Group-Out validation on independent trajectories
 
-- ####[Fraud Detection (ML)](https://github.com/steviecurran/fraud-detection-ml/tree/main)
+- #### [Fraud Detection (ML)](https://github.com/steviecurran/fraud-detection-ml/tree/main)
 
 	Supervised models for rare-event detection in highly imbalanced data, with threshold optimisation for real-world alerting trade-offs
 
