@@ -47,23 +47,23 @@
 	Supervised models for rare-event detection in highly imbalanced data, with threshold optimisation for real-world alerting trade-offs
 
 
-- ####[Clustering & Segmentation Workbench](https://github.com/steviecurran/clustering-segmentation-workbench)
+- #### [Clustering & Segmentation Workbench](https://github.com/steviecurran/clustering-segmentation-workbench)
 
 	Interactive unsupervised learning app: hierarchical clustering, K-means, PCA, with WCSS/silhouette diagnostics
 
-- ####[SQL to Pandas Toolkit](https://github.com/steviecurran/sql-to-pandas-toolkit)
+- #### [SQL to Pandas Toolkit](https://github.com/steviecurran/sql-to-pandas-toolkit)
 
 	Interactive translator between SQL operations (joins, window functions, GROUP BY) and pandas equivalents
 
-- ####[A/B Testing Toolkit](https://github.com/steviecurran/ab-testing-toolkit)
+- #### [A/B Testing Toolkit](https://github.com/steviecurran/ab-testing-toolkit)
 
  Reusable tools for comparing groups using confidence intervals and hypothesis testing
 
-- ####[Time Series Forecasting Toolkit](https://github.com/steviecurran/time-series-toolkit)
+- #### [Time Series Forecasting Toolkit](https://github.com/steviecurran/time-series-toolkit)
 
 	Interactive framework comparing ARIMA, Holt-Winters and Prophet, with backtesting and error analysis
 
-- ####[scorner](https://github.com/steviecurran/scorner)
+- #### [scorner](https://github.com/steviecurran/scorner)
 
 	Published, pip-installable Python package for multi-dimensional data visualisation
 
