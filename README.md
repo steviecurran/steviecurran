@@ -57,7 +57,7 @@
 
 - #### [A/B Testing Toolkit](https://github.com/steviecurran/ab-testing-toolkit)
 
- Reusable tools for comparing groups using confidence intervals and hypothesis testing
+ 	Reusable tools for comparing groups using confidence intervals and hypothesis testing
 
 - #### [Time Series Forecasting Toolkit](https://github.com/steviecurran/time-series-toolkit)
 
