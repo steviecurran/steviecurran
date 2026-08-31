@@ -40,7 +40,7 @@
 
 - ####[Battery Health ML Workbench](https://github.com/steviecurran/battery-health-ml-workbench)
  
- End-to-end battery prognostics from 1.6M observations, with Leave-One-Group-Out validation on independent trajectories
+ 	End-to-end battery prognostics from 1.6M observations, with Leave-One-Group-Out validation on independent trajectories
 
 - ####[Fraud Detection (ML)](https://github.com/steviecurran/fraud-detection-ml/tree/main)
 
