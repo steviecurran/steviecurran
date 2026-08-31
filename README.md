@@ -1,26 +1,31 @@
-### SUMMARY 
-Data scientist with 20+ years of experience modelling complex, noisy systems — originally in astrophysics, now applied to real-world data problems.
+##Data Scientist | Astrophysicist - Pivoting to ML & Analytics
 
-My work focuses on machine learning, statistical inference and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
+20+ years of experience modelling complex, noisy systems — originally in astrophysics, now applied to commercial data science and machine learning problems. My work focuses on machine learning, statistical inference and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
+
+📍 Athens, Greece · Open to remote, hybrid and on-site roles across Europe & the UK
 
 ### TECHNICAL HIGHLIGHTS
 
 **Machine Learning**
+
 - Classification
 - Regression
 - Neural Networks
 
 **Statistics**
+
 - A/B Testing
 - Confidence Intervals
 - Hypothesis Testing
 
 **Forecasting**
+
 - ARIMA
 - Holt-Winters
 - Prophet
 
-**Programming**
+**Core Stack**
+
 - Python
 - SQL
 - Git
@@ -28,29 +33,49 @@ My work focuses on machine learning, statistical inference and time series analy
 - IDL
 - Unix shell
 
- ![](https://raw.githubusercontent.com/steviecurran/quasar-distances/refs/heads/main/desiQSO_x_sdssQSO_trun.csv_desiQSO_x_sdssQSO_trun_kNN.png)
+![recision-recall and ROC performance from the fraud detection project below](https://raw.githubusercontent.com/steviecurran/fraud-detection-ml/refs/heads/main/assets/images/results.png)
 
-### INDUSTRY‑ALIGNED PROJECT HIGHLIGHTS
 
-- #### Fraud Detection (Machine Learning)
+### PROJECT HIGHLIGHTS
 
-  Developed supervised models to identify rare events in highly imbalanced data, achieving strong precision while maintaining a low alert rate. Focused on threshold optimisation, uncertainty, and real-world trade-offs between detection and operational cost.
+- ####[Battery Health ML Workbench](https://github.com/steviecurran/battery-health-ml-workbench)
+ 
+ End-to-end battery prognostics from 1.6M observations, with Leave-One-Group-Out validation on independent trajectories
 
-- #### A/B Testing Toolkit (Statistical Inference)
+- ####[Fraud Detection (ML)](https://github.com/steviecurran/fraud-detection-ml/tree/main)
 
-  Built reusable Python tools for comparing groups using confidence intervals and hypothesis testing. Designed to support practical decision-making in experimentation workflows.
+	Supervised models for rare-event detection in highly imbalanced data, with threshold optimisation for real-world alerting trade-offs
 
-- #### Time Series Forecasting Toolkit
 
-  Created an interactive framework for comparing forecasting models (ARIMA, Holt-Winters, Prophet) with built-in backtesting and error analysis to evaluate real-world performance.
+- ####[Clustering & Segmentation Workbench](https://github.com/steviecurran/clustering-segmentation-workbench)
 
-- #### Deep Learning for Regression
+	Interactive unsupervised learning app: hierarchical clustering, K-means, PCA, with WCSS/silhouette diagnostics
 
-  Implemented neural network models for continuous parameter estimation from high-dimensional data, including full pipelines for preprocessing, training, validation, and uncertainty assessment.
+- ####[SQL to Pandas Toolkit](https://github.com/steviecurran/sql-to-pandas-toolkit)
 
-### TOOLS & METHODS
+	Interactive translator between SQL operations (joins, window functions, GROUP BY) and pandas equivalents
 
-Python (pandas, NumPy, scikit-learn, TensorFlow), statistical modelling, machine learning, time series forecasting, hypothesis testing, data visualisation.
+- ####[A/B Testing Toolkit](https://github.com/steviecurran/ab-testing-toolkit)
+
+ Reusable tools for comparing groups using confidence intervals and hypothesis testing
+
+- ####[Time Series Forecasting Toolkit](https://github.com/steviecurran/time-series-toolkit)
+
+	Interactive framework comparing ARIMA, Holt-Winters and Prophet, with backtesting and error analysis
+
+- ####[scorner](https://github.com/steviecurran/scorner)
+
+	Published, pip-installable Python package for multi-dimensional data visualisation
+
+- #### Dashboards (Tableau / Plotly Dash) 
+   - [Logistics performance](https://github.com/steviecurran/logistics-performance-dashboard)
+   - [UK unemployment trends](https://github.com/steviecurran/uk-unemployment-dashboard)
+   - [NZ greenhouse gas emissions](https://github.com/steviecurran/nz-greenhouse-gas-dashboard)
+
+###TOOLS & METHODS
+
+Python (pandas, NumPy, scikit-learn, TensorFlow) · SQL · Statistical Modelling · Machine Learning · Time Series Forecasting · Hypothesis Testing · Data Visualisation (Plotly, Tableau, matplotlib) · Git
+
 
 ### CORE SKILLS
 
