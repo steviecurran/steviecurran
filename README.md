@@ -1,4 +1,4 @@
-##Data Scientist | Astrophysicist - Pivoting to ML & Analytics
+### SUMMARY
 
 20+ years of experience modelling complex, noisy systems — originally in astrophysics, now applied to commercial data science and machine learning problems. My work focuses on machine learning, statistical inference and time series analysis, with an emphasis on extracting signal from difficult datasets and supporting decision-making under uncertainty.
 
