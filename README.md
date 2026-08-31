@@ -72,7 +72,7 @@
    - [UK unemployment trends](https://github.com/steviecurran/uk-unemployment-dashboard)
    - [NZ greenhouse gas emissions](https://github.com/steviecurran/nz-greenhouse-gas-dashboard)
 
-###TOOLS & METHODS
+### TOOLS & METHODS
 
 Python (pandas, NumPy, scikit-learn, TensorFlow) · SQL · Statistical Modelling · Machine Learning · Time Series Forecasting · Hypothesis Testing · Data Visualisation (Plotly, Tableau, matplotlib) · Git
 
@@ -88,8 +88,6 @@ Data Visualisation | Science Communication |   numpy    | SQL               | Pl
 Statistical Analysis | Public Speaking|   pandas               | Shell scripting     | [Tableau](https://github.com/steviecurran/logistics-performance-dashboard)       |
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              | [Streamlit](https://github.com/steviecurran/streamlit-apps)       |
 Simulations |  International Collaboration  | tensorflow           | Gnuplot             |  Office      |
-
-![](https://raw.githubusercontent.com/steviecurran/fraud-detection-ml/refs/heads/main/results.png)
 
 <!--
 ![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/aitoff_trans.png)
