@@ -85,7 +85,7 @@ Data Analysis | Team Leadership |  dash      | C                 | HTML  |
 Machine  Learning | Project Management |  jupyter	    	| IDL               |Latex  |
 Neural Networks     | Teaching & Supervision|  matplotlib  | PHP  | Markdown |
 Data Visualisation | Science Communication |   numpy    | SQL               | Plotly [dashboards](https://github.com/steviecurran/dashboards)|
-Statistical Analysis | Public Speaking|   pandas               | Shell scripting     | [Tableau](https://github.com/steviecurran/logistics-performance-dashboard)       |
+Statistical Analysis | Public Speaking|   pandas               | Shell scripting     | Tableau      |
 Scientific Research | TV and Radio   |    scikit-learn         | Pgplot              | [Streamlit](https://github.com/steviecurran/streamlit-apps)       |
 Simulations |  International Collaboration  | tensorflow           | Gnuplot             |  Office      |
 
